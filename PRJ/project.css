@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+img{
+    height: 140px;
+    width: 205px;
+    margin-top: 3.7vh;
+}
+
+#A{
+    /* display: flex;
+    width: 100%; */
+    margin-top: 15vh;
+}
+
+#a{
+    /* width: 17%; */
+    height: 30vh;
+    margin-left: 3%;
+    background-image: url(./reel..jpg);
+    background-size: 100% 100%;
+}
+/* #a2{
+    width: 17%;
+    height: 30vh;
+    margin-left: 3%;
+    background-image: url(./reel..jpg);
+    background-size: 100% 100%;
+}
+#a3{
+    width: 17%;
+    height: 30vh;
+    margin-left: 3%;
+    background-image: url(./reel..jpg);
+    background-size: 100% 100%;
+}
+#a4{
+    width: 17%;
+    height: 30vh;
+    margin-left: 3%;
+    background-image: url(./reel..jpg);
+    background-size: 100% 100%;
+}
+#a5{
+    width: 17%;
+    height: 30vh;
+    margin-left: 3%;
+    background-image: url(./reel..jpg);
+    background-size: 100% 100%;
+} */
+
+#b{
+    margin-top: 30vh;
+    margin-left: 40%;
+    
+}
+#B{
+    height: 14vh;
+    border: 3px solid white;
+    background-color: black;
+    color: black;
+    font-size: 15px;
+}
+#B:hover{
+    background-color: cornsilk;   
+}
+
+/* #B:hover #a{
+    animation: a 4s linear 1;
+} */
